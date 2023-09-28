@@ -1,0 +1,5 @@
+Programa Ola_Mundo
+
+Inicio
+   Escreva("Olá Mundo!");
+Fim
